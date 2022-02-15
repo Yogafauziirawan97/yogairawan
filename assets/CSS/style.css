@@ -87,17 +87,17 @@ slice1 {
 }
 
 /* slice 2 */
+.photo2 {
+    position: absolute;
+    width: 693px;
+    height: 598px;
+    left: 63px;
+    top: 653px;
+}
 #slice2 {
-    padding-top: 280px;
-    padding-left: 800px;
-    padding-bottom: 380;
-    list-style: none;
+    padding-left: 63px;
+    padding-top: 653px;
 }
-#slice {
-    place-content: right;
-    align-content: center;
-}
-
 /* slice 3 */
 #slice3 h2{
     align-content: center;
