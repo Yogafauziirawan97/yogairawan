@@ -68,11 +68,12 @@ slice1 {
     top: 149px;
 }
 #slice1 {
-    padding-top: 280px;
+    padding-top: 200px;
     padding-left: 180Px;
     padding-right: 300px;
-    list-style: none;
+    list-style: 5px;
     margin-right: 100px;
+
 }
 #slice1 img {
     padding-top: 280px;
@@ -94,6 +95,9 @@ slice1 {
     left: 63px;
     top: 653px;
 }
+#slice2 P {
+    text-align: right;
+}
 
 #slice2 {
     align-content: center;
@@ -105,7 +109,6 @@ slice1 {
     padding-top: 816px;
     padding left: 902px;
     list-style: none;
-    margin-right: 100px;
 }
 #slice2 .p {
     position: absolute;
