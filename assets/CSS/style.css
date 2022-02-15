@@ -98,9 +98,21 @@ slice1 {
     padding-left: 63px;
     padding-top: 653px;
 }
+p {
+    align-content: center;
+}
+#slice2 .p {
+    position: absolute;
+    align-content: right;
+    white-space: pre-line;
+    font-weight: bold;
+    font-family: Shippori Antique;  
+    font-style: normal;
+
 /* slice 3 */
 #slice3 h2{
     align-content: center;
 }
+
 
 /* Footer */
