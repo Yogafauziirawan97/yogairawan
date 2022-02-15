@@ -94,12 +94,18 @@ slice1 {
     left: 63px;
     top: 653px;
 }
+
 #slice2 {
-    padding-left: 63px;
-    padding-top: 653px;
-}
-p {
     align-content: center;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: flex-end;
+}
+#slice2 {
+    padding-top: 816px;
+    padding left: 902px;
+    list-style: none;
+    margin-right: 100px;
 }
 #slice2 .p {
     position: absolute;
